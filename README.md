@@ -85,4 +85,4 @@ python -m venv venv
 # ویندوز:
 venv\Scripts\activate
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py"# liara-sre-agent" 
