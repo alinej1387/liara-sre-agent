@@ -1,0 +1,6 @@
+langgraph
+langchain-mcp-adapters
+langchain-openai
+mcp
+python-dotenv
+httpx
